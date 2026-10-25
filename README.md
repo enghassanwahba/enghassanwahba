@@ -27,8 +27,13 @@
 | [Atlas Attrition Analysis](https://github.com/enghassanwahba/New_Atlas_Attrition_Analysis_HW) | HR dashboard tracking a 16% attrition rate | Power BI |
 
 ---
-
 ## 📬 Connect with Me
 
-- **LinkedIn:** [hassan-wahba](https://linkedin.com/in/hassan-wahba-a0777013a)
-- **Email:** eng_hassanwahbawork@gmail.com
+- 💻 **GitHub:** [enghassanwahba](https://github.com/enghassanwahba)
+- ✉️ **Email (Gmail):** [eng_hassanwahbawork@gmail.com](mailto:eng_hassanwahbawork@gmail.com)
+- ✉️ **Email (Yahoo):** [eng_hassanwahba@yahoo.com](mailto:eng_hassanwahba@yahoo.com)
+- 💼 **LinkedIn:** [hassan-wahba](https://linkedin.com/in/hassan-wahba-a0777013a)
+- 💬 **WhatsApp:** [+20 120 807 9351](https://wa.me/201208079351)
+- ✈️ **Telegram:** [+20 120 807 9351](https://t.me/+201208079351)
+- 📞 **Phone:** +20 120 807 9351
+- 📘 **Facebook:** [Hassan Wahba](https://www.facebook.com/share/18x5M7KRAQ/)
