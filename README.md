@@ -1,58 +1,34 @@
-# Hi there, I'm Eng. Hassan Wahba! 👋
-### Electrical/Tech Engineer passionate about Data Analytics & Business Intelligence
+# Hi there, I'm Hassan Wahba 👋
 
-I build end-to-end data pipelines and transform raw data into visual stories that drive business decisions. Ready for remote opportunities worldwide.
+### Senior Electrical Engineer transitioning into Data Analytics & Business Intelligence
+
+18+ years leading electro-mechanical projects, now building end-to-end data pipelines and turning raw data into visual stories that drive business decisions. Open to remote opportunities worldwide.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-- **Data Analysis:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis
+
+- **Data Analysis:** Data Cleaning, EDA, Statistical Analysis
 - **Languages & Databases:** SQL (T-SQL, MySQL), Python (Pandas, NumPy)
-- **Data Visualization:** Power BI, Tableau, Advanced Excel
-- **Engineering Background:** Electrical Engineering, Problem Solving, Analytical Thinking
+- **Data Visualization:** Power BI, Tableau, Advanced Excel (Power Query)
+- **Engineering Background:** Electrical & Automation Engineering
 
 ---
 
-## 🚀 Featured Data Analytics Projects (7)
+## 🚀 Featured Projects
 
-### 1️⃣ Project 1: Adidas Sales Analysis (Example)
-- **Description:** An interactive dashboard to track revenue and profit features across regions.
-- **Tools Used:** Power BI, Advanced Excel
-- **[👉 View Project Repository](https://github.com)**
-
-### 2️⃣ Project 2: Databel Telecom Churn Analysis (Example)
-- **Description:** Investigating telecom customer churn patterns and providing recommendations to retain users.
-- **Tools Used:** Tableau, SQL
-- **[👉 View Project Repository](https://github.com)**
-
-### 3️⃣ Project 3: [Write Your 3rd Project Name Here]
-- **Description:** [Brief 1-sentence description of what you did].
-- **Tools Used:** [e.g., Python, SQL]
-- **[👉 View Project Repository](https://github.com[Your-Repo-Name])**
-
-### 4️⃣ Project 4: [Write Your 4th Project Name Here]
-- **Description:** [Brief 1-sentence description].
-- **Tools Used:** [e.g., Power BI]
-- **[👉 View Project Repository](https://github.com[Your-Repo-Name])**
-
-### 5️⃣ Project 5: [Write Your 5th Project Name Here]
-- **Description:** [Brief 1-sentence description].
-- **Tools Used:** [e.g., SQL, Excel]
-- **[👉 View Project Repository](https://github.com[Your-Repo-Name])**
-
-### 6️⃣ Project 6: [Write Your 6th Project Name Here]
-- **Description:** [Brief 1-sentence description].
-- **Tools Used:** [e.g., Python]
-- **[👉 View Project Repository](https://github.com[Your-Repo-Name])**
-
-### 7️⃣ Project 7: [Write Your 7th Project Name Here (In Progress ⏳)]
-- **Description:** Currently building an advanced analysis model for [mention the domain, e.g., E-commerce].
-- **Tools Used:** [e.g., Python, Power BI]
-- **[👉 View Project Repository](https://github.com[Your-Repo-Name])**
+| Project | Description | Tools |
+|---|---|---|
+| [Pizza Sales Analytics](https://github.com/enghassanwahba/Data_Analysis_HW_Pizza_Sales_SQL_PowerBI) | 17 optimized T-SQL views feeding an executive Power BI dashboard | SQL Server, Power BI |
+| [Adidas US Sales & Profit Dashboard](https://github.com/enghassanwahba/Adidas-Interactive-Sales-Profit-Dashboard) | Interactive dashboard of sales, profit and units sold across US regions | Excel |
+| [Databel Churn Analysis](https://github.com/enghassanwahba/Databel-Churn-lens_HW) | Telecom churn rates, top retention risks and recommendations | Power BI |
+| [Nexus Commercial Dashboard](https://github.com/enghassanwahba/PowerQuery_Nexus_HW-Dashboard) | Orders, Customers and Products integrated with Power Query ETL | Excel, Power Query |
+| [Atlas Retain Analytics](https://github.com/enghassanwahba/Atlas_Retain_PowerBI_Report_HW) | Enterprise-grade analytics and insights report | Power BI |
+| [Atlas Attrition Analysis](https://github.com/enghassanwahba/New_Atlas_Attrition_Analysis_HW) | HR dashboard tracking a 16% attrition rate | Power BI |
 
 ---
 
 ## 📬 Connect with Me
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
--
+
+- **LinkedIn:** [hassan-wahba](https://linkedin.com/in/hassan-wahba-a0777013a)
+- **Email:** eng_hassanwahbawork@gmail.com
